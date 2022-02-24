@@ -1,10 +1,9 @@
 [Match]
-Name=wlan0
+Name=enp12s0
 
 [Network]
 DHCP=yes
 DNS=1.1.1.1
-IgnoreCarrierLoss=3s
 
 [DHCPv4]
 UseDNS=no
